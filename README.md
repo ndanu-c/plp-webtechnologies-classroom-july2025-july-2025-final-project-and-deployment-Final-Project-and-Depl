@@ -75,4 +75,4 @@ Once complete, I deployed the project using a modern hosting platform. Options i
 ---
 
 ### 🔗 Live Demo  
-👉 [View the Site Here](https://empowering-women.netlify.app/success) 
+👉 [View the Site Here](https://empowering-women.netlify.app) 
