@@ -1,19 +1,15 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# 📦 WOMEN EMPWOERING SITE
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
-
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
-
+In a world where women are left behind, I decided to put on my front-end skills to work and create a site where women's achievements are seen and appreciated.
+A site that I'll continuously update as we move
 ---
 
 ## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
 
-Before you write any code, take time to plan:
+Before you I wrote any code, take time to plan:
 
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
+* I defined my website's purpose (To showcase women's successes)
+* Outline 3 pages (Home, Success Stories)
 
 **Goal:** Show intentional structure and user journey across the site.
 
